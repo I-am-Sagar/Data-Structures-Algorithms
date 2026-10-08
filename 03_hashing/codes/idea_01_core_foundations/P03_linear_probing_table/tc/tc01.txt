@@ -1,0 +1,6 @@
+5 5
+PUT cat
+PUT act
+CONTAINS cat
+CONTAINS act
+CONTAINS dog

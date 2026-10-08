@@ -1,0 +1,5 @@
+5 4
+GET dog
+PUT dog 50
+GET dog
+REMOVE dog

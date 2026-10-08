@@ -1,0 +1,5 @@
+1 4
+put 2 1
+get 2
+put 3 2
+get 2

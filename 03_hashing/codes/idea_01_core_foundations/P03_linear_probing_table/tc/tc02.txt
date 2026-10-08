@@ -1,0 +1,5 @@
+3 4
+PUT a
+PUT b
+CONTAINS a
+CONTAINS c

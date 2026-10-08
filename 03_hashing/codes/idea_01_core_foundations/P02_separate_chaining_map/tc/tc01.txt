@@ -1,0 +1,7 @@
+5 6
+PUT cat 10
+PUT act 20
+GET cat
+GET act
+PUT cat 30
+GET cat

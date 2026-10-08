@@ -1,0 +1,6 @@
+3 5
+PUT a 1
+PUT b 2
+REMOVE c
+GET a
+GET b
